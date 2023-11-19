@@ -120,5 +120,6 @@
             "prerequisite": "Introduction to Programming, Algorithms and Data Structures, Computer Architecture I",
             "evaluation": "考试：期中（10%）、期末（15%）；作业：10%；编程项目：项目1（10%），项目2（10%），项目3（20%），项目4（20%）；考勤：5%"
         }
-    ]
+    ],
+    "status": "activate"
 }
